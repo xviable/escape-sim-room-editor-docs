@@ -14,8 +14,6 @@ https://escape-simulator.fandom.com/wiki/Handbook_for_room_editors
 
 Adding custom textures - https://steamcommunity.com/sharedfiles/filedetails/?id=2643992386&searchtext=textures
 
-Editor Texture Dump https://drive.google.com/uc?id=1l33WTmzHG3dGfJypN92MN7zYgyEeEsWk&export=download
-
 Gaming Assets Textures https://drive.google.com/drive/folders/1w4ALpvimX3132PwWoXZgfp7d4dBWzTSa
 
 Room Editor Importer Tutorial - https://imgur.com/a/xXauimb
