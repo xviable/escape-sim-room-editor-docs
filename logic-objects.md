@@ -27,7 +27,6 @@ There are many different tools called "Logic Objects" in Escape Simulator that e
 ### Teleport
 ### Finish
 
-https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#visuals-and-effects
 ## Index
 - [Activator](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#activator)
 - [Collider](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#collider)
