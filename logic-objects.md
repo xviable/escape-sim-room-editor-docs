@@ -56,7 +56,7 @@ There are many different tools called "Logic Objects" in Escape Simulator that e
 ![image](https://user-images.githubusercontent.com/2043673/193333399-baf7e2c6-d060-456b-96c6-7a91f65b7bbe.png)
 
 ## Events
-### Spawn
+### Spawn Point
 ![image](https://user-images.githubusercontent.com/2043673/193333546-9fa986fd-382d-419c-b72f-cf0777fa7323.png)
 
 ### Teleport
@@ -82,7 +82,7 @@ There are many different tools called "Logic Objects" in Escape Simulator that e
 - [Sky Box](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#sky-box)
 - [Slot](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#slot)
 - [Sound](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#sound)
-- [Spawn](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#spawn)
+- [Spawn Point](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#spawn)
 - [Teleport](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#teleport)
 - [Transparent](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#transparent)
 - [Transparent (Double-Sided)](https://github.com/xviable/escape-sim-room-editor-docs/blob/main/logic-objects.md#transparent-double-sided)
