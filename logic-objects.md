@@ -3,7 +3,10 @@ There are many different tools called "Logic Objects" in Escape Simulator that e
 
 ## Physical
 ### Empty
-![image](https://user-images.githubusercontent.com/2043673/193335381-a0a2d8a8-76f0-44af-a78a-fddfd4bf4f3b.png)
+
+An item without physical properties. It can be used as a parent for other objects to be able to move them all at once and to organize item groups. Additionally it can be animated and be used as a timer or to animate objects that are not animations themselves. Or to stack animations, since every object can only store one. 
+
+<img src="https://user-images.githubusercontent.com/2043673/193335381-a0a2d8a8-76f0-44af-a78a-fddfd4bf4f3b.png" width="600">
 
 ### Transparent
 ![image](https://user-images.githubusercontent.com/2043673/193335450-e88304ea-2aab-417b-af9e-f2a2a2dc1751.png)
