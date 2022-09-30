@@ -3,67 +3,67 @@ There are many different tools called "Logic Objects" in Escape Simulator that e
 
 ## Physical
 ### Empty
-![image](https://user-images.githubusercontent.com/2043673/193330606-d10443d9-42d1-48b1-97d9-d05098db1474.png)
+![image](https://user-images.githubusercontent.com/2043673/193335381-a0a2d8a8-76f0-44af-a78a-fddfd4bf4f3b.png)
 
 ### Transparent
-![image](https://user-images.githubusercontent.com/2043673/193330518-db369a09-fc52-4965-95d0-e8f826752acc.png)
+![image](https://user-images.githubusercontent.com/2043673/193335450-e88304ea-2aab-417b-af9e-f2a2a2dc1751.png)
 
 ### Transparent (Double-sided)
-![image](https://user-images.githubusercontent.com/2043673/193330763-5e5ca29a-b247-418b-bcca-068e8d242274.png)
+![image](https://user-images.githubusercontent.com/2043673/193336177-f7f6d7fc-c0da-4799-b78a-62844faed868.png)
 
 ### Obstacle
-![image](https://user-images.githubusercontent.com/2043673/193330912-344987e4-2042-4450-8eee-6546cd3fd832.png)
+![image](https://user-images.githubusercontent.com/2043673/193336378-7b9d61fd-ca48-4877-abf5-4f1c5a323b13.png)
 
 ### Collider
-![image](https://user-images.githubusercontent.com/2043673/193331033-8dd38a4c-7313-46bd-b5ea-3e1f4b789775.png)
+![image](https://user-images.githubusercontent.com/2043673/193336543-8cb35b06-c705-443a-af5b-8af2ca8c15c2.png)
 
 ## Tools
 ### Activator
-![image](https://user-images.githubusercontent.com/2043673/193331147-985c2d43-9178-48d0-bfcb-b1e778d13b7b.png)
+![image](https://user-images.githubusercontent.com/2043673/193336635-b2a0dadc-1244-4197-8923-6da8d2663bb2.png)
 
 ### Lock
-![image](https://user-images.githubusercontent.com/2043673/193331207-25fa828e-ec80-4089-a8d3-3aeb877bd9cb.png)
+![image](https://user-images.githubusercontent.com/2043673/193336705-26e33b39-45cc-4461-802e-4f0e1376e59c.png)
 
 ### Slot
-![image](https://user-images.githubusercontent.com/2043673/193331258-98f9e7b2-95f1-434c-8930-e1943f9b5c57.png)
+![image](https://user-images.githubusercontent.com/2043673/193336832-8f8b8b03-ee8a-4cea-99b2-88d6fb14f00f.png)
 
 ### Script
-![image](https://user-images.githubusercontent.com/2043673/193333809-1822b6ef-fdf9-4d02-82b2-c5751a8a9645.png)
+![image](https://user-images.githubusercontent.com/2043673/193336906-9b235305-7af5-4ded-8fb7-3c68670cc9e4.png)
 
 ### Trigger
-![image](https://user-images.githubusercontent.com/2043673/193332733-967ecd85-24a8-4eb6-8e88-67caf9a6fdc2.png)
+![image](https://user-images.githubusercontent.com/2043673/193336996-c8284a66-ca93-448b-9651-365cd3dd4d3e.png)
 
 ### Open Link
-![image](https://user-images.githubusercontent.com/2043673/193332849-4fb4bfb6-6a11-465a-b43a-9854d15196fa.png)
+![image](https://user-images.githubusercontent.com/2043673/193337090-1fdb77df-912b-4797-8808-f8ca1e9cabec.png)
 
 ## Visuals and Effects
 ### Fog
-![image](https://user-images.githubusercontent.com/2043673/193332993-bcb7e190-1478-4e2a-a640-137cfe4f1d07.png)
+![image](https://user-images.githubusercontent.com/2043673/193337155-9bf87a45-c4a6-4701-a55c-04675d73df5d.png)
 
 ### Light
-![image](https://user-images.githubusercontent.com/2043673/193334051-dd9958ba-4ff3-493f-90d2-170d8b5472a1.png)
+![image](https://user-images.githubusercontent.com/2043673/193337266-37f93ddf-c5e8-40f0-87d8-857056a57e57.png)
 
 ### Sky Box
-![image](https://user-images.githubusercontent.com/2043673/193333059-53497eae-b481-4820-8675-e469fd78d038.png)
+![image](https://user-images.githubusercontent.com/2043673/193337339-ef0ab9d1-eccd-427d-93ad-d0af70383d84.png)
 
 ### Sound
-![image](https://user-images.githubusercontent.com/2043673/193333143-9094538f-00ca-4ecf-8263-62c14cc37923.png)
+![image](https://user-images.githubusercontent.com/2043673/193337395-d6795eea-ecf7-4922-b8f1-a225f9fd1706.png)
 
 ### Display
-![image](https://user-images.githubusercontent.com/2043673/193333320-a4227e75-f897-43a5-98e1-e00350dfd716.png)
+![image](https://user-images.githubusercontent.com/2043673/193337470-1df89d2f-1c79-49fc-9595-b9e7086ffb18.png)
 
 ### Post-Processing
-![image](https://user-images.githubusercontent.com/2043673/193333399-baf7e2c6-d060-456b-96c6-7a91f65b7bbe.png)
+![image](https://user-images.githubusercontent.com/2043673/193337544-f89a20df-d497-46e4-a05d-622365c3b145.png)
 
 ## Events
 ### Spawn Point
-![image](https://user-images.githubusercontent.com/2043673/193333546-9fa986fd-382d-419c-b72f-cf0777fa7323.png)
+![image](https://user-images.githubusercontent.com/2043673/193337657-62e5c95f-acf0-49ba-b319-35c0b395a08d.png)
 
 ### Teleport
-![image](https://user-images.githubusercontent.com/2043673/193333687-dc315235-de0c-4c4e-a058-034f5b99d0db.png)
+![image](https://user-images.githubusercontent.com/2043673/193337732-10ba970c-ae01-4dc0-83cc-5cc55f95e8cf.png)
 
 ### Finish
-![image](https://user-images.githubusercontent.com/2043673/193333725-8cef6c92-f508-46d6-9f7b-7df31be59610.png)
+![image](https://user-images.githubusercontent.com/2043673/193337781-bba52757-a774-415e-a30d-0b994dbf40ec.png)
 
 
 ## Index
