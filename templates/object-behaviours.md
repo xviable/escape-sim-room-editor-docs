@@ -5,7 +5,7 @@
 # Item Name
 Animations are the heart and soul of every good room. Not only will they make it seem more alive, but they are also used in a multitude of workarounds! So keep on reading, even if you think you know your way around animations already.
 
-### Properties
+## Properties
 
 EDIT WAYPOINT
 Used to set the end-point of an animation.
@@ -37,7 +37,7 @@ This allows you to make an animated item also be a pickable. Often it is needed 
 ON COMPLETE
 The items/actions that get triggered after the animation reached its endpoint. If connected to a lock the animation will send a "1" on complete and a "0" on complete of the reverse animation.
 
-### Helpful Tips
+## Helpful Tips
 
 IMPORTANT: You cannot make animations be keys to a slot. So make the item pickable, assign it as key, and THEN make it an animation with "pickable" checked. This way it works, cause the item carries over its key properties.
 
